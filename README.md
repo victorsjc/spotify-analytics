@@ -1,13 +1,13 @@
 # spotify-analytics
 
-#**Objetivo**
+# **Objetivo**
 Projeto para iniciantes em data science utilizando o Python e aplicando ferramentas para ML
 
-#**Pré-requisitos**
+# **Pré-requisitos**
 - Jupyter, no caso utilizei o plugin para VSCode
 - [Miniconda] (https://docs.conda.io/projects/miniconda/en/latest/)
 
-#**Configuração**
+# **Configuração**
 
 1. Comece criando o ambiente Anaconda para o projeto de data science. Segue o comando para ser executado no terminal de comando.
 
