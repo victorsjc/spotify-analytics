@@ -133,3 +133,4 @@ with warnings.catch_warnings():
     plt.tight_layout()
     plt.show()
 ```
+![Ranking Popularidade Spotify](/assets/img/ranking-popularidade.png "Ranking de Popularidade Spotify") {align=center}
